@@ -4,7 +4,7 @@ import EPayroll from "../assets/EPayroll.png";
 import TaskBoard from "../assets/TaskBoard.png";
 import GoogleBooks from "../assets/google-books-app.png";
 import MongoDBSocial from "../assets/MongoDBSocialNetwork.png";
-import texteditor from "../assets/texteditor.png";
+import texteditor from "../assets/TextEditor.png";
 import {Row,Col} from "react-bootstrap";
 
 
